@@ -1,5 +1,4 @@
 from telegram.ext import ApplicationBuilder, CommandHandler
-import requests
 import os
 
 TOKEN = os.getenv("BOT_TOKEN")
